@@ -1,6 +1,6 @@
 # giferator
 
-<img src="https://cdn.discordapp.com/attachments/232245773448773633/815672959174836244/composite.gif" height="150" align="right">
+<img src="https://cdn.discordapp.com/attachments/232245773448773633/815672959174836244/composite.gif" height="100" align="right">
 
 > Madden GIFERATOR recreation in a Discord bot.
 
